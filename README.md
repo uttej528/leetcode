@@ -13,6 +13,7 @@
 | [0283-move-zeroes](https://github.com/uttej528/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/uttej528/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2058-concatenation-of-array](https://github.com/uttej528/leetcode/tree/master/2058-concatenation-of-array) |
+| [3463-alternating-groups-i](https://github.com/uttej528/leetcode/tree/master/3463-alternating-groups-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/uttej528/leetcode/tree/master/2058-concatenation-of-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3463-alternating-groups-i](https://github.com/uttej528/leetcode/tree/master/3463-alternating-groups-i) |
 <!---LeetCode Topics End-->
