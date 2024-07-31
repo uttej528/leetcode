@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/uttej528/leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/uttej528/leetcode/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/uttej528/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uttej528/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/uttej528/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
