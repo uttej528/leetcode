@@ -55,5 +55,10 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/uttej528/leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/uttej528/leetcode/tree/master/0344-reverse-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/uttej528/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
