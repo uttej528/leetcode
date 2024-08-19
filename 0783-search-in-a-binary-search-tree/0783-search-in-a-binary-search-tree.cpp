@@ -16,10 +16,10 @@ public:
             return root;
         }
 
-        if (root->val < val) {  // Fixed `data` to `val`
-            return searchBST(root->right, val);  // Fixed `data` to `val`
+        if (val<root->val) {  // Fixed `data` to `val`
+            return searchBST(root->left, val);  // Fixed `data` to `val`
         }
 
-        return searchBST(root->left, val);  // Fixed `data` to `val`
+        return searchBST(root->right, val);  // Fixed `data` to `val`
     }
 };
