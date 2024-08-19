@@ -11,15 +11,15 @@
  */
 class Solution {
 public:
-    TreeNode* searchBST(TreeNode* root, int data) {
-        if (root == nullptr || root->val == data) {
+    TreeNode* searchBST(TreeNode* root, int val) {
+        if (root == nullptr || root->val == val) {  // Fixed `data` to `val`
             return root;
         }
 
-        if (root->val < data) {
-            return searchBST(root->right, data);
+        if (root->val < val) {  // Fixed `data` to `val`
+            return searchBST(root->right, val);  // Fixed `data` to `val`
         }
 
-        return searchBST(root->left, data);
+        return searchBST(root->left, val);  // Fixed `data` to `val`
     }
 };
