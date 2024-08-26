@@ -11,7 +11,7 @@ class Solution {
         {
           return dp[n];
         }
-       return dp[n]=fib(n-1)+fib(n-2);
+       return dp[n]=dynamic(n-1,dp)+dynamic(n-2,dp);
 
     }
 public:
