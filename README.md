@@ -18,6 +18,7 @@
 | [0287-find-the-duplicate-number](https://github.com/uttej528/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/uttej528/leetcode/tree/master/0485-max-consecutive-ones) |
 | [2058-concatenation-of-array](https://github.com/uttej528/leetcode/tree/master/2058-concatenation-of-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/uttej528/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3463-alternating-groups-i](https://github.com/uttej528/leetcode/tree/master/3463-alternating-groups-i) |
 ## Hash Table
 |  |
