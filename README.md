@@ -40,6 +40,7 @@
 | [0009-palindrome-number](https://github.com/uttej528/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/uttej528/leetcode/tree/master/0069-sqrtx) |
 | [1013-fibonacci-number](https://github.com/uttej528/leetcode/tree/master/1013-fibonacci-number) |
+| [2383-add-two-integers](https://github.com/uttej528/leetcode/tree/master/2383-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
