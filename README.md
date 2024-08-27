@@ -40,6 +40,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/uttej528/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/uttej528/leetcode/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/uttej528/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/uttej528/leetcode/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/uttej528/leetcode/tree/master/2383-add-two-integers) |
 ## Bit Manipulation
@@ -56,6 +57,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/uttej528/leetcode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/uttej528/leetcode/tree/master/2058-concatenation-of-array) |
 ## Sliding Window
 |  |
@@ -66,6 +68,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/uttej528/leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/uttej528/leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/uttej528/leetcode/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
