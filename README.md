@@ -40,6 +40,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/uttej528/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/uttej528/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/uttej528/leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/uttej528/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/uttej528/leetcode/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/uttej528/leetcode/tree/master/2383-add-two-integers) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/uttej528/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/uttej528/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uttej528/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/uttej528/leetcode/tree/master/1013-fibonacci-number) |
 ## Tree
@@ -146,5 +148,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/uttej528/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/uttej528/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
