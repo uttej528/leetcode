@@ -15,6 +15,8 @@ public:
         return climbstair(i+1,n)+climbstair(i+2,n);
     }
 */
+
+/* --------TOP DOWN APPROACH ---------*/
      int climbstair(int i,int n,vector<int>&dp)
     {
         if(i==n)
@@ -34,9 +36,8 @@ public:
     }
     int climbStairs(int n) {
 
-        vector<int>dp(n+1,-1);
+        vector<int>dp(n+2,-1);
      return climbstair(0,n,dp);
-     //int val=dp.size();
-     //return val;   
+   
     }
 };
