@@ -7,13 +7,23 @@ public:
         {
             return {};
         }
-        for(i=0;i<m;i++)
+       /*
+       //method1 
+       for(i=0;i<m;i++)
         {
             for(j=0;j<n;j++)
             {
                 ans[i][j]=original[k];
                 k++;
             }
+        }*/
+
+        //method2
+        for(i=0;i<size;i++)
+        {       
+            int row=i/n;
+            int col=i%n;
+            ans[row][col]=original[i];
         }
         return ans;
     }
