@@ -19,6 +19,7 @@
 | [0287-find-the-duplicate-number](https://github.com/uttej528/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/uttej528/leetcode/tree/master/0485-max-consecutive-ones) |
 | [2058-concatenation-of-array](https://github.com/uttej528/leetcode/tree/master/2058-concatenation-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/uttej528/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/uttej528/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3463-alternating-groups-i](https://github.com/uttej528/leetcode/tree/master/3463-alternating-groups-i) |
 ## Hash Table
@@ -61,6 +62,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/uttej528/leetcode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/uttej528/leetcode/tree/master/2058-concatenation-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/uttej528/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -161,4 +163,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/uttej528/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/uttej528/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
