@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/uttej528/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/uttej528/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/uttej528/leetcode/tree/master/0485-max-consecutive-ones) |
+| [1580-shuffle-the-array](https://github.com/uttej528/leetcode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/uttej528/leetcode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/uttej528/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/uttej528/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
